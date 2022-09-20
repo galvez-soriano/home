@@ -16,47 +16,47 @@ My primary research fields include Labor Economics, Applied Econometrics and Eco
 ogalvezs@cougarnet.uh.edu
 
 **Mailing Address:** <br />
-University of Houston 
-Department of Economics 
-UH Entrance 14 
-Office 208F, Science Building
-Houston, TX 77204
+University of Houston <br />
+Department of Economics <br />
+UH Entrance 14 <br />
+Office 208F, Science Building <br />
+Houston, TX 77204 <br />
 
 # CV
 
 <a href="https://galvez-soriano.github.io/home/Galvez_Soriano_CV.pdf">Oscar Galvez-Soriano' CV</a>
 
-**Education**
-PhD in Economics, University of Houston, 2023 (expected)
-MA in Economics,  University of Houston, 2021
-MS in Economics, El Colegio de México, 2013
-BS in Agricultural Economics, Universidad Autónoma Chapingo, 2011
+**Education** <br />
+PhD in Economics, University of Houston, 2023 (expected) <br />
+MA in Economics,  University of Houston, 2021 <br />
+MS in Economics, El Colegio de México, 2013 <br />
+BS in Agricultural Economics, Universidad Autónoma Chapingo, 2011 <br />
 
-**Work Experience**
-Research Assistant, University of Houston (Dr. Willa Friedman), Spring 2022
-Researcher, University of Houston (Dr. Steven Craig), Summer 2020, 2021
-Economist, Research Department at Banco de México, 2014-2018
-Researcher, Sustainable Food and Development (think tank), 2013-2014
+**Work Experience** <br />
+Research Assistant, University of Houston (Dr. Willa Friedman), Spring 2022 <br />
+Researcher, University of Houston (Dr. Steven Craig), Summer 2020, 2021 <br />
+Economist, Research Department at Banco de México, 2014-2018 <br />
+Researcher, Sustainable Food and Development (think tank), 2013-2014 <br />
 
 **Honors and Awards**
-PhD Research Fellowship, Department of Financial Education, Banco de México, Summer 2022
-CLASS Summer Fellowship for Research Excellence and Diversity, UH, Spring 2022
-Best Presentation Award, University of Houston Graduate Student Workshop, May 2022
-Dr. Walter J. Primeaux Jr. and Natalie A. Primeaux Scholarship, University of Houston, Spring 2022
-Cullen Graduate Student Success Fellowship, University of Houston, July 2021
-PhD Research Fellowship, Economic Research Department, Banco de México, Summer 2021
-Best Presentation Award, University of Houston Graduate Student Workshop, May 2021
-Doctoral Student Tuition Fellowship, University of Houston, 2018-2023
-Doctoral Scholarship, CONACYT/University of Houston, 2018-2022
-Presidential Fellowship, University of Houston, 2018-2020
-Josué Sáenz prize, El Colegio de México, January 2014
-Graduate Scholarship, CONACYT/El Colegio de México, 2011-2013
-Undergraduate Scholarship, Universidad Autónoma Chapingo, 2007-2011
+PhD Research Fellowship, Department of Financial Education, Banco de México, Summer 2022 <br />
+CLASS Summer Fellowship for Research Excellence and Diversity, UH, Spring 2022 <br />
+Best Presentation Award, University of Houston Graduate Student Workshop, May 2022 <br />
+Dr. Walter J. Primeaux Jr. and Natalie A. Primeaux Scholarship, University of Houston, Spring 2022 <br />
+Cullen Graduate Student Success Fellowship, University of Houston, July 2021 <br />
+PhD Research Fellowship, Economic Research Department, Banco de México, Summer 2021 <br />
+Best Presentation Award, University of Houston Graduate Student Workshop, May 2021 <br />
+Doctoral Student Tuition Fellowship, University of Houston, 2018-2023 <br />
+Doctoral Scholarship, CONACYT/University of Houston, 2018-2022 <br />
+Presidential Fellowship, University of Houston, 2018-2020 <br />
+Josué Sáenz prize, El Colegio de México, January 2014 <br />
+Graduate Scholarship, CONACYT/El Colegio de México, 2011-2013 <br />
+Undergraduate Scholarship, Universidad Autónoma Chapingo, 2007-2011 <br />
 
-**Presentations**
+**Presentations** <br />
 Southern Economic Association (2022, 2021), Missouri Valley Economic Association (2022), Bank of Mexico Research Seminar (2022, 2021, 2015), University of Houston (2022, 2021, 2020), Universidad Autónoma Chapingo (2021, 2017), Universidad Nacional Autónoma de México (2016), Instituto Tecnológico Autónomo de México (2015)
 
-**Referee Experience**
+**Referee Experience** <br />
 _Estudios Económicos, The Mexican Journal of Economics and Finance, International Journal of Statistics and Geography_
 
 You can also visit my personal website at: <a href="https://sites.google.com/site/oscargalvezsoriano/">https://sites.google.com/site/oscargalvezsoriano/</a>
@@ -67,8 +67,8 @@ You can also visit my personal website at: <a href="https://sites.google.com/sit
   font-size: 150;
 }
 
-<a href="[https://galvez-soriano.github.io/home/Galvez_Soriano_CV.pdf](https://galvez-soriano.github.io/home/Papers/EnglishInstructionMex.pdf)">**Impact of English Instruction on Labor Market Outcomes: The case of Mexico**</a>
-**Job Market Paper**
+**Impact of English Instruction on Labor Market Outcomes: The case of Mexico** <a href="[https://galvez-soriano.github.io/home/Galvez_Soriano_CV.pdf](https://galvez-soriano.github.io/home/Papers/EnglishInstructionMex.pdf)"> (PDF)</a>  <br />
+**Job Market Paper** 
 
 In this paper I measure the effect of exposure to a foreign language in school on student achievement and labor market outcomes. I exploit a policy change in Mexico that introduced English instruction in elementary schools through the National English Program in Basic Education (NEPBE) in 2009. I construct a novel database, which contains nation-wide information of elementary school students linked to school panel data on characteristics like hours of English instruction as well as to their labor market records in adulthood. Using a Two-Way Fixed Effects (TWFE) model, I find that exposure to English instruction reduces the likelihood that an individual participates in formal sector employment. It is likely that this result is due to exposure affecting enrollment in high school and college, as my analysis focuses on young adults aged 16-24. Focusing on a sub-sample that is unlikely to be enrolled by age 16, I find that the exposure to English instruction has no effect on wages. However, I do find a positive effect among high achieving individuals. On the other hand, exposure reduced men's mobility, but increased women's. This could be explained by women substituting jobs in agriculture for manufacturing industries. Furthermore, within manufacturing, I find a strong substitution of low-English intensive jobs for high-English intensive ones. I also evaluate the effect of exposure to English instruction on students’ achievement to determine if part of the effect on wages is due to a reallocation of resources towards English instruction in primary schools, which can potentially affect the formation of human capital. I find no effects on Language and Math test scores, which suggests that the estimated effect of exposure to English language on wages is not reflecting changes to general cognitive skills.
 
