@@ -12,10 +12,10 @@ My primary research fields include Labor Economics, Applied Econometrics and Eco
 
 # Contact information
 
-**Email:** 
+**Email:** <br />
 ogalvezs@cougarnet.uh.edu
 
-**Mailing Address:**
+**Mailing Address:** <br />
 University of Houston 
 Department of Economics 
 UH Entrance 14 
@@ -63,8 +63,8 @@ You can also visit my personal website at: <a href="https://sites.google.com/sit
 
 # Research
 
-element {
-  font-size: 150; **Working Papers**
+**Working Papers** {
+  font-size: 150;
 }
 
 <a href="[https://galvez-soriano.github.io/home/Galvez_Soriano_CV.pdf](https://galvez-soriano.github.io/home/Papers/EnglishInstructionMex.pdf)">**Impact of English Instruction on Labor Market Outcomes: The case of Mexico**</a>
