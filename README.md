@@ -78,6 +78,18 @@ In this paper I study the prevalence of English skills and the labor market retu
 
 This paper examines the impact of social pensions on old-age poverty in Mexico. To achieve causal identification, we leverage the expansion of Mexico's flagship, non-means-tested social pension program in 2013. We find that the program's expansion significantly reduced extreme poverty, mainly among indigenous seniors and in rural areas. However, the expansion had negligible effects in urban contexts and on other well-being dimensions, including labor force participation and health outcomes. This suggests that social pensions were not effective in simultaneously ensuring minimum economic well-being and inducing retirement. The program's mistargeting and small cash transfer are among the main explanations.
 
+## Work in Progress
+
+Economic returns to college education for poor students: Evidence from a free college program in Mexico (with Roberto Rivera)
+
+Rent Capture by Central Cities (with Steven Craig, Janet Kohlhase and Annie Hsu)
+
+Can irrigation explain poverty and inequality in Mexico? (with David Escamilla)
+
+Exposure to English instruction, education, migration and wages in Mexico
+
+Do Remittances Reduce Poverty and Inequality in Rural Mexico? 
+
 ## Predoctoral publications  <br />
 ### Developed at the Central Bank of Mexico
 
