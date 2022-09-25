@@ -8,7 +8,7 @@ I studied a BS in Agricultural Economics at Universidad Autónoma Chapingo and a
 
 My primary research fields include Labor Economics, Applied Econometrics and Economics of Education
 
-![alt text](https://github.com/galvez-soriano/home/blob/main/Galvez-Soriano.jpg?raw=true)
+![alt text](https://github.com/galvez-soriano/home/blob/main/Galvez-Soriano.JPG?raw=true)
 
 # Contact information
 
