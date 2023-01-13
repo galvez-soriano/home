@@ -13,7 +13,7 @@ My primary research fields include Labor Economics, Applied Econometrics and Eco
 # Contact information
 
 **Email:** <br />
-ogalvezs@cougarnet.uh.edu
+ogalvezs@central.uh.edu
 
 **Mailing Address:** <br />
 University of Houston <br />
