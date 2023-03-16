@@ -4,7 +4,7 @@
 
 I am a PhD Candidate in Economics at the University of Houston. I previously worked as an economist at the Central Bank of Mexico
 
-I studied a BS in Agricultural Economics at Universidad Autónoma Chapingo and a MS in Economics at El Colegio de México
+I obtained a BS in Agricultural Economics from Universidad Autónoma Chapingo and an MS in Economics from El Colegio de México
 
 My primary research fields include Labor Economics, Applied Econometrics and Economics of Education
 
@@ -27,7 +27,7 @@ Houston, TX 77204 <br />
 <a href="https://galvez-soriano.github.io/home/Galvez_Soriano_CV.pdf">Oscar Galvez-Soriano' CV</a>
 
 **Education** <br />
-PhD in Economics, University of Houston, 2023 (expected) <br />
+PhD in Economics, University of Houston, 2023 <br />
 MA in Economics,  University of Houston, 2021 <br />
 MS in Economics, El Colegio de México, 2013 <br />
 BS in Agricultural Economics, Universidad Autónoma Chapingo, 2011 <br />
