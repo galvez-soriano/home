@@ -2,9 +2,9 @@
 
 # About me
 
-I am a PhD Candidate in Economics at the University of Houston. I previously worked as an economist at the Central Bank of Mexico
+I hold a PhD in Economics from the University of Houston. I obtained a BS in Agricultural Economics from Universidad Autónoma Chapingo and a MS in Economics from El Colegio de México 
 
-I obtained a BS in Agricultural Economics from Universidad Autónoma Chapingo and an MS in Economics from El Colegio de México
+I previously worked as an economist at the Research Department of the Central Bank of Mexico
 
 My primary research fields include Labor Economics, Applied Econometrics and Economics of Education
 
@@ -13,7 +13,7 @@ My primary research fields include Labor Economics, Applied Econometrics and Eco
 # Contact information
 
 **Email:** <br />
-ogalvezs@central.uh.edu
+galvez.soriano@gmail.com
 
 **Mailing Address:** <br />
 University of Houston <br />
