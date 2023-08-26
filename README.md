@@ -2,6 +2,8 @@
 
 # About me
 
+I am an Assistant Instructional Professor in the Kenneth C. Griffin Department of Economics and the College at The University of Chicago
+
 I hold a PhD in Economics from the University of Houston. I obtained a BS in Agricultural Economics from Universidad Autónoma Chapingo and a MS in Economics from El Colegio de México 
 
 I previously worked as an economist at the Research Department of the Central Bank of Mexico
@@ -13,14 +15,13 @@ My primary research fields include Labor Economics, Applied Econometrics and Eco
 # Contact information
 
 **Email:** <br />
-galvez.soriano@gmail.com
+ogalvez@uchicago.edu
 
 **Mailing Address:** <br />
-University of Houston <br />
+The University of Chicago <br />
 Department of Economics <br />
-UH Entrance 14 <br />
-Office 208F, Science Building <br />
-Houston, TX 77204 <br />
+Saieh Hall for Economics <br />
+Chicago, IL 60637 <br />
 
 # CV
 
@@ -33,7 +34,6 @@ MS in Economics, El Colegio de México, 2013 <br />
 BS in Agricultural Economics, Universidad Autónoma Chapingo, 2011 <br />
 
 **Work Experience** <br />
-Research Assistant, University of Houston (Dr. Willa Friedman), Spring 2022 <br />
 Researcher, University of Houston (Dr. Steven Craig), Summer 2020, 2021 <br />
 Economist, Research Department at Banco de México, 2014-2018 <br />
 Researcher, Sustainable Food and Development (think tank), 2013-2014 <br />
@@ -54,10 +54,10 @@ Graduate Scholarship, CONACYT/El Colegio de México, 2011-2013 <br />
 Undergraduate Scholarship, Universidad Autónoma Chapingo, 2007-2011 <br />
 
 **Presentations** <br />
-Southern Economic Association (2022, 2021), Missouri Valley Economic Association (2022), Bank of Mexico Research Seminar (2022, 2021, 2015), University of Houston (2022, 2021, 2020), Universidad Autónoma Chapingo (2021, 2017), Universidad Nacional Autónoma de México (2016), Instituto Tecnológico Autónomo de México (2015)
+Southern Economic Association (2022, 2021), Missouri Valley Economic Association (2022), Bank of Mexico Research Seminar (2023, 2022, 2021, 2015), University of Houston (2023, 2022, 2021, 2020), Rochester Institute of Technology (2023), El Colegio de México (2023, 2013), Tecnológico de Monterrey (2023), Universidad Autónoma Chapingo (2021, 2017), Universidad Nacional Autónoma de México (2016), Instituto Tecnológico Autónomo de México (2015), CUNEF University (2023)
 
 **Referee Experience** <br />
-_Estudios Económicos, The Mexican Journal of Economics and Finance, International Journal of Statistics and Geography_
+_Empirical Economics, Estudios Económicos, The Mexican Journal of Economics and Finance, International Journal of Statistics and Geography_
 
 You can also visit my personal website at: <a href="https://sites.google.com/site/oscargalvezsoriano/">https://sites.google.com/site/oscargalvezsoriano/</a>
 
