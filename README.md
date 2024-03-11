@@ -86,9 +86,7 @@ Economic returns to college education for poor students: Evidence from a free co
 
 Rent Capture by Central Cities (with Steven Craig, Janet Kohlhase and Annie Hsu)
 
-Can irrigation explain poverty and inequality in Mexico? (with David Escamilla)
-
-Exposure to English instruction, education, migration and wages in Mexico
+Exposure to English instruction, education, migration and wages in Mexico (with David Escamilla)
 
 Do Remittances Reduce Poverty and Inequality in Rural Mexico? 
 
