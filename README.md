@@ -33,8 +33,11 @@ MA in Economics,  University of Houston, 2021 <br />
 MS in Economics, El Colegio de México, 2013 <br />
 BS in Agricultural Economics, Universidad Autónoma Chapingo, 2011 <br />
 
+**Current Position** <br />
+Assistant Instructional Professor, The University of Chicago, 2023-Present
+
 **Work Experience** <br />
-Researcher, University of Houston (Dr. Steven Craig), Summer 2020, 2021 <br />
+Researcher, University of Houston, Summer 2020, 2021 <br />
 Economist, Research Department at Banco de México, 2014-2018 <br />
 Researcher, Sustainable Food and Development (think tank), 2013-2014 <br />
 
@@ -54,7 +57,7 @@ Graduate Scholarship, CONACYT/El Colegio de México, 2011-2013 <br />
 Undergraduate Scholarship, Universidad Autónoma Chapingo, 2007-2011 <br />
 
 **Presentations** <br />
-Southern Economic Association (2022, 2021), Missouri Valley Economic Association (2022), Bank of Mexico Research Seminar (2023, 2022, 2021, 2015), University of Houston (2023, 2022, 2021, 2020), Rochester Institute of Technology (2023), El Colegio de México (2023, 2013), Tecnológico de Monterrey (2023), Universidad Autónoma Chapingo (2021, 2017), Universidad Nacional Autónoma de México (2016), Instituto Tecnológico Autónomo de México (2015), CUNEF University (2023)
+Southern Economic Association (2024, 2022, 2021), Missouri Valley Economic Association (2022), Bank of Mexico Research Seminar (2023, 2022, 2021, 2015), University of Houston (2023, 2022, 2021, 2020), Rochester Institute of Technology (2023), El Colegio de México (2023, 2013), Tecnológico de Monterrey (2023), Universidad Autónoma Chapingo (2024, 2021, 2017), Universidad Nacional Autónoma de México (2016), Instituto Tecnológico Autónomo de México (2015), CUNEF University (2023)
 
 **Referee Experience** <br />
 _Empirical Economics, Estudios Económicos, The Mexican Journal of Economics and Finance, International Journal of Statistics and Geography_
