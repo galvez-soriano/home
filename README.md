@@ -77,7 +77,7 @@ This paper examines the impact of social pensions on old-age poverty. To achieve
 
 ## **Working Papers**
 
-**Biofuel Growth: The Unintended Effects of the Ethanol Boom on Farmland Values**, with Hoanh Le (You can download an older version of this paper <a href="https://ageconsearch.umn.edu/record/343763/files/28523.pdf">here</a>)  <br />
+**Biofuel Growth: The Unintended Effects of the Ethanol Boom on Farmland Values**, with Hoanh Le (You can download an older version of this paper <a href="https://www.researchgate.net/publication/399833002_Impact_of_the_Renewable_Fuel_Standard_on_Midwest_Farmland_Values">here</a>)  <br />
 
 This paper provides the first causal estimates of the impact of the U.S. ethanol boom on farmland values in the Midwest. Using county-level data from the Census of Agriculture (1997–2022) and a difference-in-differences strategy that exploits variation in soil productivity, we find that farmland values in high corn-suitability counties increased by $1,318 per acre after 2005, equivalent to a 68 percent gain relative to pre-boom levels. The effects are even larger in the most productive counties, where land values more than doubled. Unlike prior research that has emphasized localized effects near ethanol plants, our results show that farmland appreciation was market-wide, driven by policy-induced demand for ethanol rather than ethanol plant location. We also identify two reinforcing mechanisms: a short-run response to higher corn prices and a longer-run increase in farmland demand. These findings highlight how large-scale energy policies can reshape rural land markets in ways that extend well beyond their intended objectives.
 
