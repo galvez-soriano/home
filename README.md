@@ -20,7 +20,7 @@ ogalvez@uchicago.edu
 **Mailing Address:** <br />
 The University of Chicago <br />
 Department of Economics <br />
-Saieh Hall for Economics <br />
+1126 E. 59th St. <br />
 Chicago, IL 60637 <br />
 
 # CV
@@ -77,24 +77,31 @@ This paper examines the impact of social pensions on old-age poverty. To achieve
 
 ## **Working Papers**
 
-**Impact of English Instruction on Labor Market Outcomes: The case of Mexico** (<a href="https://galvez-soriano.github.io/home/Papers/EnglishInstructionMex.pdf">PDF</a>)  <br />
-**Job Market Paper** 
+**Biofuel Growth: The Unintended Effects of the Ethanol Boom on Farmland Values**, with Hoanh Le (You can download an older version of this paper <a href="https://ageconsearch.umn.edu/record/343763/files/28523.pdf">here</a>)  <br />
 
-In this paper I measure the effect of exposure to a foreign language in school on student achievement and labor market outcomes. I exploit a policy change in Mexico that introduced English instruction in elementary schools through the National English Program in Basic Education (NEPBE) in 2009. I construct a novel database, which contains nation-wide information of elementary school students linked to school panel data on characteristics like hours of English instruction as well as to their labor market records in adulthood. Using a Two-Way Fixed Effects (TWFE) model, I find that exposure to English instruction reduces the likelihood that an individual participates in formal sector employment. It is likely that this result is due to exposure affecting enrollment in high school and college, as my analysis focuses on young adults aged 16-24. Focusing on a sub-sample that is unlikely to be enrolled by age 16, I find that the exposure to English instruction has no effect on wages. However, I do find a positive effect among high achieving individuals. On the other hand, exposure reduced men's mobility, but increased women's. This could be explained by women substituting jobs in agriculture for manufacturing industries. Furthermore, within manufacturing, I find a strong substitution of low-English intensive jobs for high-English intensive ones. I also evaluate the effect of exposure to English instruction on students’ achievement to determine if part of the effect on wages is due to a reallocation of resources towards English instruction in primary schools, which can potentially affect the formation of human capital. I find no effects on Language and Math test scores, which suggests that the estimated effect of exposure to English language on wages is not reflecting changes to general cognitive skills.
+This paper provides the first causal estimates of the impact of the U.S. ethanol boom on farmland values in the Midwest. Using county-level data from the Census of Agriculture (1997–2022) and a difference-in-differences strategy that exploits variation in soil productivity, we find that farmland values in high corn-suitability counties increased by $1,318 per acre after 2005, equivalent to a 68 percent gain relative to pre-boom levels. The effects are even larger in the most productive counties, where land values more than doubled. Unlike prior research that has emphasized localized effects near ethanol plants, our results show that farmland appreciation was market-wide, driven by policy-induced demand for ethanol rather than ethanol plant location. We also identify two reinforcing mechanisms: a short-run response to higher corn prices and a longer-run increase in farmland demand. These findings highlight how large-scale energy policies can reshape rural land markets in ways that extend well beyond their intended objectives.
 
-**Foreign language skills and labor market outcomes: The case of English in Mexico** (<a href="https://galvez-soriano.github.io/home/Papers/English_skills_in_Mexico.pdf">PDF</a>)
+**Global Language, Local Identity: English Education and Indigenous Skill Formation in Mexico**, with Ornella Darova (Draft available upon request)
 
-In this paper, I study the prevalence of English skills and the labor market returns to English skills in Mexico. I use individual-level data from the 2014 Subjective Well-being Survey, which, unlike other large nationally representative data sets, includes a measure of English proficiency. To address concerns regarding endogeneity in the relationship between English skills and labor market outcomes, I exploit policy changes in various Mexican states that introduced English instruction (as a subject) in public elementary schools during the 1990s. Using a Two-Way Fixed Effects specification, I estimate the effect of these state policies introducing English instruction. Subsequently, I utilize the variation in English skills resulting from these policy changes to estimate the causal effect of English skills on labor market outcomes. I offer robust estimates in the presence of heterogeneous treatment effects due to variations of the treatment over time and across treated regions. My findings indicate that these policies offering English instruction did not significantly affect wages, shifted workers out of physically demanding occupations, and increased the likelihood of speaking English.
+As countries expand English instruction to promote global economic integration, policymakers often worry this may erode indigenous languages and cultural heritage. This paper examines this concern through a natural experiment in Mexico, where six states introduced English programs in public primary schools during the 1990s. Using a staggered difference-in-differences design and Mexico's School and Population Censuses, we find, unexpectedly, that exposure to English increased the likelihood of self-reported understanding and speaking an indigenous language by 1.2 and 0.7 percentage points, respectively - substantial effects given the low baseline rates of 2.2% and 1.4%. We also document a 1.7 percentage point increase in indigenous self-identification from a baseline of 8.26%, accompanied by significantly greater geographic mobility. These findings suggest that multilingual education can simultaneously promote economic integration and reinforce cultural distinctiveness.
+
+**Labor market assimilation of workers with new skills: Evidence from Mexico's National English Program**, with Jorge Perez Perez and Francisco Cabrera-Hernandez (Draft available upon request)
+
+We evaluate the effects of a 2009 policy that introduced English instruction in Mexican public elementary schools. Using a novel administrative dataset linking social security records, school census data, and standardized test scores, we implement a staggered difference-in-differences strategy. Exposure decreases formal sector employment but raises wages and shifts workers toward English-intensive industries. Wage gains are concentrated among high-ability individuals and those with limited initial exposure. Test score declines in core subjects fade with continued exposure, suggesting minimal cognitive trade-offs. External validation confirms strong gains in English proficiency, supporting skill acquisition as the key mechanism behind observed labor market effects.
+
+**The unintended effects of universalizing social pensions: Evidence from Mexico**, with Raymundo Ramirez Peralta (Draft available upon request)
+
+This paper examines the effects of the 2019 universalization of Mexico’s Pensión para el Bienestar de las Personas Adultas Mayores (PAM), one of the country’s most expansive and politically salient social programs. The reform simultaneously increased the cash transfer and extended eligibility to all individuals aged 65 and over, regardless of income or contributory pension status. Using nationally representative data from the ENIGH and a triple-differences (DDD) identification strategy, we estimate the causal effect of the universalization on poverty and labor market outcomes. Our empirical approach exploits variation across time (pre- and post-reform), age (eligible vs. ineligible), and pension scheme status (non-contributory vs. contributory), allowing us to separate the effects of expanded eligibility from those of increased benefit levels. We find no significant change in overall poverty rates, suggesting that many new beneficiaries were not economically vulnerable. However, we document a surprising increase in extreme poverty, concentrated among low-income elderly who responded to the reform by exiting the labor force. This reduction in labor supply, driven by a significant drop in employment among individuals in the bottom income quartile, suggests that the pension acted as a substitute for labor income rather than a supplement. Taken together, the results underscore the trade-offs of universal pension programs: while broader access reduces administrative exclusion, it can weaken targeting precision and introduce unintended behavioral responses that offset potential welfare gains.
 
 ## Work in Progress
 
 Economic returns to college education for poor students: Evidence from a free college program in Mexico (with Roberto Rivera)
 
+Road construction: Evidence on labor, education, and food prices in Mexico (with Jaime Arrieta Ortega)
+
+Remittances and their causal effect on development (with Eduardo Medina-Cortina)
+
 Rent Capture by Central Cities (with Steven Craig, Janet Kohlhase and Annie Hsu)
-
-Exposure to English instruction, education, migration and wages in Mexico (with David Escamilla)
-
-Do Remittances Reduce Poverty and Inequality in Rural Mexico? 
 
 ## Predoctoral publications  <br />
 ### Developed at the Central Bank of Mexico
