@@ -97,7 +97,7 @@ This paper examines the effects of the 2019 universalization of Mexico’s Pensi
 
 Economic returns to college education for poor students: Evidence from a free college program in Mexico (with Roberto Rivera)
 
-Road construction: Evidence on labor, education, and food prices in Mexico (with Jaime Arrieta Ortega)
+Road construction: Evidence on labor, development, and food prices in Mexico (with Jaime Arrieta Ortega)
 
 Remittances and their causal effect on development (with Eduardo Medina-Cortina)
 
