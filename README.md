@@ -57,7 +57,7 @@ Graduate Scholarship, CONACYT/El Colegio de México, 2011-2013 <br />
 Undergraduate Scholarship, Universidad Autónoma Chapingo, 2007-2011 <br />
 
 **Presentations** <br />
-Southern Economic Association (2025, 2024, 2022, 2021), Missouri Valley Economic Association (2022), Bank of Mexico Research Seminar (2023, 2022, 2021, 2015), University of Houston (2023, 2022, 2021, 2020), Rochester Institute of Technology (2023), El Colegio de México (2023, 2013), Tecnológico de Monterrey (2023), Universidad Autónoma Chapingo (2024, 2021, 2017), Universidad Nacional Autónoma de México (2016), Instituto Tecnológico Autónomo de México (2015), CUNEF University (2023)
+ASSA Annual Meeting (2025), Association for Education Finance and Policy (2024), Banco de México (2023, 2022, 2021, 2015), CUNEF University (2023), El Colegio de México (2023, 2013), Global Labor Organization Conference (2022), Instituto Tecnológico Autónomo de México (2015), Missouri Valley Economic Association (2022), PhD-Economics Virtual Seminar (2022), Rochester Institute of Technology (2023), Southern Economic Association (2025, 2024, 2022, 2021), Tecnológico de Monterrey (2023), Universidad Autónoma Chapingo (2026, 2024, 2021, 2017), Universidad Autónoma del Estado de México (2024), Universidad Nacional Autónoma de México (2016), Universidad Pontificia Comillas (2022), University of Houston (2022, 2021, 2020), University of Nebraska-Lincoln (2025), University of Nebraska-Omaha (2025), Western Economic Association (2024, 2026)
 
 **Referee Experience** <br />
 _Empirical Economics, Estudios Económicos, The Mexican Journal of Economics and Finance, International Journal of Statistics and Geography_
