@@ -39,7 +39,7 @@ Assistant Instructional Professor, The University of Chicago, 2023-Present
 **Work Experience** <br />
 Researcher, University of Houston, Summer 2020, 2021 <br />
 Economist, Research Department at Banco de México, 2014-2018 <br />
-Researcher, Sustainable Food and Development (think tank), 2013-2014 <br />
+Researcher, Sustainable Food and Development (_think tank_), 2013-2014 <br />
 
 **Honors and Awards** <br />
 PhD Research Fellowship, Department of Financial Education, Banco de México, Summer 2022 <br />
